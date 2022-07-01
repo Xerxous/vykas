@@ -87,10 +87,6 @@ Cheatsheet: ![](https://i.imgur.com/o5WnCV2.png)
 - You need to be in lust mode to kill frogs
 ### 55 - Tentacles
 - Eat red orbs and kill tentacles with enough lust orbs
-## Other Mechs
-### Slow debuff and wind buff
-### Invisible Whales 
-### Medusa - look away (NM)
 ### 0 - Beserk stagger - USE WEI
 - Determine Vykas and run behind her
 - Pool removes lust gauge
@@ -99,3 +95,8 @@ Cheatsheet: ![](https://i.imgur.com/o5WnCV2.png)
 - Other attack patterns
 - Repeat
 NOTE: 12 o clock cheese during center pattern and look away (medusa) 
+## Other Mechs
+### Slow debuff and wind buff
+### Invisible Whales 
+### Medusa - look away (NM)
+
