@@ -81,7 +81,7 @@ Cheatsheet: ![](https://i.imgur.com/o5WnCV2.png)
   - then inside (torpedo)/outside (sword scratch) safe attack
   - get mind controlled using the lust pools
 ### 120 - Get Charmed
-### 105 - Stagger and frogs
+### 102 - Stagger and frogs
 - Use Wei orb (3) and stagger at center
 - Timestop to avoid frog explosion
 - You need to be in lust mode to kill frogs
