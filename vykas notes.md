@@ -7,9 +7,10 @@
 - REMEMBER: Boss TPs to center whenever there is a mech
 ### 55 - First Split
 ### 45 - Orbs into gate
-![](https://i.imgur.com/OXCvAAp.png)
+![](https://i.imgur.com/sfggDBJ.png)
 - Color order: Red Blue Green White Black
 ### 36 - Stagger + Memory orbs
+![](https://i.imgur.com/p4ecJ5y.png)
 - Blue side tells purple side inside/outside safe
 ### 30 - Second Split
 - Explosion at beginning (like Seto)
